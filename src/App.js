@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Services from './Pages/Services/Services'
 import Reports from './Pages/Reports/Reports'
 import UserManagement from './Pages/UserManagment/UserManagment'
-import MyOrders from './Pages/MyOrders/MyOrder'
+
 import Stamp from './Pages/Stamp/Stamp'
 import Barcodes from './Pages/Barcodes/Barcodes'
 import Navbar from './Components/Navbar/Navbar' 
